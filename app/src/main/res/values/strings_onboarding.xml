@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="onboarding_button_skip">Skip</string>
+    <string name="onboarding_button_next">Next</string>
+    <string name="onboarding_button_understood">Understood!</string>
+    <string name="page1_title">Welcome!</string>
+    <string name="page1_subtitle">The pictures you took have different aspect ratio, but you don\'t want to crop them? Bordo will help you!</string>
+    <string name="page2_title">Choose the pictures</string>
+    <string name="page2_subtitle">Choose the pictures for which you want to keep the same aspect ratio. They will be kept into an album inside the app.</string>
+    <string name="page3_title">Select the reference picture</string>
+    <string name="page3_subtitle">Select the reference picture: the others will be successively filled to maintain the same aspect ratio.</string>
+    <string name="page4_title">Adjust the pictures</string>
+    <string name="page4_subtitle">Choose the padding effect to be used.</string>
+    <string name="page5_title">Save the pictures</string>
+    <string name="page5_subtitle">Save the result in gallery!</string>
+</resources>

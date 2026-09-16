@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bordo</string>
+    <string name="app_double_back_alert">Premere di nuovo per uscire</string>
+    <string name="select_photos">Seleziona le foto</string>
+    <string name="define_layout">Definisci il layout</string>
+    <string name="album_preview">Anteprima album</string>
+    <string name="selected_photos_count">Foto selezionate: </string>
+    <string name="renamedialog_select_name">Dai un nome al nuovo album</string>
+    <string name="renamedialog_confirm">Conferma</string>
+    <string name="button_delete_album">Elimina</string>
+    <string name="msg_delete_album">Eliminare l\'album \"%1$s\"?</string>
+    <string name="effect_selection">Selezione effetto riempimento</string>
+    <string name="progress_creating_album">Creazione nuovo album \"%1$s\"…</string>
+    <string name="no_albums">Nessun album creato</string>
+    <string name="create_new_album">Crea nuovo</string>
+    <string name="progress_generating_album">Generando album \"%1$s\"…</string>
+    <string name="button_generate_album">Genera</string>
+    <string name="msg_generate_album">Generare album \"%1$s\"?</string>
+    <string name="msg_generated">Album \"%1$s\" generato all\'interno della cartella Pictures</string>
+    <string name="menu_change_reference">Cambia foto di riferimento</string>
+    <string name="menu_change_effect">Cambia effetto riempimento</string>
+    <string name="menu_add_photos">Aggiungi foto</string>
+    <string name="fab_delete_photo">Rimuovi foto</string>
+    <string name="fab_add_photos">Aggiungi foto</string>
+    <string name="fab_create_album">Crea album</string>
+    <string name="effect_white_black">Bianco/Nero</string>
+    <string name="effect_white_black_white">Bianco</string>
+    <string name="effect_white_black_black">Nero</string>
+    <string name="effect_blur">Sfocatura</string>
+    <string name="delete_current_photo">Eliminare la foto corrente dall\'album?</string>
+    <string name="menu_delete_album">Elimina album</string>
+    <string name="msg_remove_photo">Rimuovere questa foto?</string>
+    <string name="home_top_bar_title">I miei album</string>
+    <string name="layout_definition_remove">Rimuovi foto</string>
+    <string name="layout_definition_crop">Ritaglia foto</string>
+    <string name="layout_definition_set_reference_photo">Imposta foto di riferimento</string>
+    <string name="cropping_title">Ritaglia foto</string>
+    <string name="cropping_keep_reference_aspect_ratio">Foto di riferimento</string>
+    <string name="cropping_free_cropping">Ritaglio libero</string>
+    <string name="layout_definition_exit_alert">Vuoi veramente uscire? L\'album non verrà creato.</string>
+    <string name="button_exit_dialog">Esci</string>
+    <string name="top_bar_next_button">Avanti</string>
+    <string name="loading_albums_message">Caricamento album…</string>
+    <string name="loading_album_message">Caricamento album \"%1$s\"…</string>
+    <string name="layout_definition_add">Aggiungi foto</string>
+</resources>

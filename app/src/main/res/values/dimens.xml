@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_extra_small">4dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="padding_large">20dp</dimen>
+    <dimen name="padding_extra_large">32dp</dimen>
+    <dimen name="stroke_small">1dp</dimen>
+    <dimen name="stroke_medium">2dp</dimen>
+    <dimen name="stroke_big">4dp</dimen>
+    <dimen name="height_albums">112dp</dimen>
+    <dimen name="blur_radius">16dp</dimen>
+    <dimen name="shape_extra_small">8dp</dimen>
+    <dimen name="shape_small">16dp</dimen>
+    <dimen name="shape_medium">24dp</dimen>
+    <dimen name="shape_large">32dp</dimen>
+    <dimen name="shape_extra_large">48dp</dimen>
+</resources>
